@@ -21,8 +21,7 @@ page_sections:
 - template: hero-banner-w-image
   block: hero-2
   headline: Privacy on Demand <br><strong>POD</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  content: Privacy on Demand services
   cta:
     enabled: true
     url: https://github.com/forestryio/ubuild-jekyll
