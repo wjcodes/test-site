@@ -8,7 +8,7 @@ page_sections:
   navigation:
   - link: ''
     link_text: Home
-  logo: ''
+  logo: "/uploads/2018/06/21/forestry-symbol.svg"
 - template: simple-header
   block: header-3
   logo: ''
