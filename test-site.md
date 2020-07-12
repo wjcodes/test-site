@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Test Site
+title: Test
 date: 
 page_sections:
 - template: navigation-header
@@ -12,6 +12,5 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: ''
-published: false
 
 ---
