@@ -12,5 +12,10 @@ page_sections:
 - template: simple-header
   block: header-3
   logo: ''
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 
 ---
